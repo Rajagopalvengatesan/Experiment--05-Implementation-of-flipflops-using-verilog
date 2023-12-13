@@ -120,13 +120,14 @@ RegisterNumber: 23002920
 ![image](https://github.com/Rajagopalvengatesan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144870784/8c661df8-c595-4c91-b5cf-7b5217681b4a)
 
 ### JK FlipFlop
-![image](https://github.com/Rajagopalvengatesan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144870784/498e0340-6fbf-4131-8bf8-de271f8f33f9)
+![image](https://github.com/Rajagopalvengatesan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144870784/0c19755d-8ba6-45dd-8843-b5001134fb31)
+
 
 ### T FlipFlop
 ![image](https://github.com/Rajagopalvengatesan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144870784/bd28b3c1-26fc-4e9a-96b8-f777790e680a)
 
 ### RTL Logic for Flipflop
-
+### SR Flipflop
 ![image](https://github.com/Rajagopalvengatesan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144870784/614c9813-1095-44fd-89ae-db2f7ea1c82c)
 
 ### D Flipflop
