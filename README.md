@@ -109,16 +109,52 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: Rajagopal V
+RegisterNumber: 23002920  
 */
 
+### Code
+### SR FlipFlop
+![286314149-f55cb8b8-711b-4fb1-a628-73447f7efc1a](https://github.com/Rajagopalvengatesan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144870784/c5bd178f-8ab1-4a8f-b4b1-67006554b94b)
+### D FlipFlop
+![image](https://github.com/Rajagopalvengatesan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144870784/8c661df8-c595-4c91-b5cf-7b5217681b4a)
+
+### JK FlipFlop
+![image](https://github.com/Rajagopalvengatesan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144870784/498e0340-6fbf-4131-8bf8-de271f8f33f9)
+
+### T FlipFlop
+![image](https://github.com/Rajagopalvengatesan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144870784/bd28b3c1-26fc-4e9a-96b8-f777790e680a)
+
+### RTL Logic for Flipflop
+
+![image](https://github.com/Rajagopalvengatesan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144870784/614c9813-1095-44fd-89ae-db2f7ea1c82c)
+
+### D Flipflop
+![image](https://github.com/Rajagopalvengatesan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144870784/d5ddf1b1-3f69-499e-915e-5af8a0a72c31)
+
+### JK Flipflop
+![image](https://github.com/Rajagopalvengatesan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144870784/c90eea62-8fe7-44e3-8bf4-334625e14e61)
+
+### T flipflop
+![image](https://github.com/Rajagopalvengatesan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144870784/95e8a296-d578-4888-95cc-46a21ec10fa6)
+
+### Timing Diagram for Flipflop
+### SR Flipflop 
+![image](https://github.com/Rajagopalvengatesan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144870784/6cd2e5b8-e3b9-4c30-bc93-30f707bd4833)
+
+### D Flipoflop
+![image](https://github.com/Rajagopalvengatesan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144870784/01690a64-2806-4740-a647-403e94a11e56)
+
+### JK Flipflop
+![image](https://github.com/Rajagopalvengatesan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144870784/f7684588-c5c3-426b-a990-2f5e50d27fef)
+
+### T Flipflop
+![image](https://github.com/Rajagopalvengatesan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/144870784/3374ed28-a73d-485e-b576-14df8f706c1c)
 
 
 
 
 
-### RTL LOGIC FOR FLIPFLOPS 
 
 
 
@@ -128,7 +164,6 @@ RegisterNumber:
 
 
 
-### TIMING DIGRAMS FOR FLIP FLOPS 
 
 
 
